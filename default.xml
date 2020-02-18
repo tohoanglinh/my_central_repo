@@ -2,6 +2,7 @@
 <manifest>
 
   <remote name="linh_repo"
+          fetch=".."
           review="https://github.com/tohoanglinh/"/>
   <default revision="master"
            remote="linh_repo"
